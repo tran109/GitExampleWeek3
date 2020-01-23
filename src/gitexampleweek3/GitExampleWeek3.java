@@ -12,6 +12,8 @@ public class GitExampleWeek3 {
      */
     public static void main(String[] args) {
         System.out.println("This is a modification of a file");
+        System.out.println("Tet den roi vui that la vui");
+        
     
     }
 
