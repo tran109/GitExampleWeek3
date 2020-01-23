@@ -11,6 +11,7 @@ public class GitExampleWeek3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("This is a modification of a file");
     
     }
 
